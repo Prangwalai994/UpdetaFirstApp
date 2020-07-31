@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FirstApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="name_text">WAE PRANGWALAI</string>
+    <string name="name_title">Raely ?</string>
+    <string name="name_about">aboutme</string>
+    <string name="name_comtact">contact</string>
+    <string name="name">Prangwalai Rittisorn</string>
+    <string name="email">prangwalai.l@rmuti.ac.th</string>
+    <string name="Aboutme">AboutMe Wae</string>
+
+    <string name="bio">Hi, my name is Prangwalai Rittisorn.Nickname Wae.
+\n\nBirthDay 24:08:1999  Arg: 21.
+\nBlood’s Group : O
+\n\nMy dream is Programmer.
+\n\n"Success is a lousy teacher.
+I seduces smart people into
+thinking they can't lose."</string>
+    <string name="Address">424 M.4 Sungnoen Nakhonratchasima.</string>
+    <string name="Phonenumber">Tal : 093-5078815</string>
+    <string name="Email">email : prangwalai.li@rmuti.ac.th</string>
+
+
+</resources>
