@@ -28,6 +28,8 @@ thinking they can't lose."</string>
     <string name="Address">424 M.4 Sungnoen Nakhonratchasima.</string>
     <string name="Phonenumber">Tal : 093-5078815</string>
     <string name="Email">email : prangwalai.li@rmuti.ac.th</string>
+    <string name="name_contact">name_contact</string>
+    <string name="add_contacts">add_contacts</string>
 
 
 </resources>

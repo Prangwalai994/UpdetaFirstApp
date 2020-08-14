@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
@@ -10,8 +11,12 @@
             android:icon="@drawable/user"
             android:title="@string/name_about" />
         <item
-            android:id="@+id/nav_contct"
+            android:id="@+id/nav_contact"
             android:icon="@drawable/postcard"
-            android:title="@string/name_comtact" />
+            android:title="@string/name_contact" />
+        <item
+            android:id="@+id/nav_addcontacts"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/add_contacts" />
     </group>
 </menu>
