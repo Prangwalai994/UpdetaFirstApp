@@ -30,6 +30,12 @@ thinking they can't lose."</string>
     <string name="Email">email : prangwalai.li@rmuti.ac.th</string>
     <string name="name_contact">name_contact</string>
     <string name="add_contacts">add_contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Add">add_contact</string>
+    <string name="addname">add_name1</string>
+    <string name="add_name1">add_name</string>
+    <string name="add_name">add_name</string>
 
 
 </resources>

@@ -13,7 +13,7 @@
         <item
             android:id="@+id/nav_contact"
             android:icon="@drawable/postcard"
-            android:title="@string/name_contact" />
+            android:title="@string/name_comtact" />
         <item
             android:id="@+id/nav_addcontacts"
             android:icon="@android:drawable/ic_input_add"
