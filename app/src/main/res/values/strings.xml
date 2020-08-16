@@ -36,6 +36,13 @@ thinking they can't lose."</string>
     <string name="addname">add_name1</string>
     <string name="add_name1">add_name</string>
     <string name="add_name">add_name</string>
+    <string name="hint_word">hint_word</string>
+    <string name="button_save">button_save</string>
+    <string name="empty_not_saved">empty_not_saved</string>
+
+    <string name="hint_word" tools:ignore="DuplicateDefinition">Word...</string>
+    <string name="button_save" tools:ignore="DuplicateDefinition">Save</string>
+    <string name="empty_not_saved" tools:ignore="DuplicateDefinition">Word not saved because it is empty.</string>
 
 
 </resources>
